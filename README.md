@@ -20,3 +20,11 @@ Features:
 - Built for 24/7 operation
 
 Observatory aims to be the command center every homelab owner wishes came built into Linux.
+
+
+
+
+
+
+
+⚠️ Observatory is currently in active development. Version 1 establishes the platform, dashboard architecture, monitoring engine, analytics pipeline, and navigation system. Future releases will focus on dashboard refinement, insight quality, theme improvements, and overall user experience.
